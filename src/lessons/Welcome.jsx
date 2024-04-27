@@ -4,7 +4,7 @@ import "../index.css";
 const Welcome = () => (
   <div className=" module-content p-10 text-center">
     <h1 className="text-3xl font-bold underline mb-4">
-      Welcome to the AI School
+      Welcome to the Learn LLMs
     </h1>
     <p className="mb-4">
       This course will introduce you to the basics and advanced concepts of
