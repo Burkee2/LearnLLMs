@@ -78,11 +78,7 @@ const TransformersLesson5 = () => {
           Fine-tuning Transformers for Specific Tasks
         </h1>
 
-        <h3 className="text-xl font-semibold mt-6 mb-2">Objective</h3>
-        <p>
-          Learn how to fine-tune pre-trained transformer models for custom NLP
-          tasks such as sentiment analysis, question answering, and more.
-        </p>
+       
 
         <h3 className="text-xl font-semibold mt-6 mb-2">
           The Concept of Transfer Learning
