@@ -3,6 +3,12 @@
 @tailwind utilities;
 
 .module-content {
-  background-color: #303030;
+  background: linear-gradient(
+    109.6deg,
+    rgba(0, 0, 0, 0.93) 11.2%,
+    rgb(63, 61, 61) 78.9%
+  );
   color: white;
+  min-height: 100vh; /* Ensures at least full viewport height */
+  width: 100%;
 }

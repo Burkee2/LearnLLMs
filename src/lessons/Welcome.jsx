@@ -1,6 +1,7 @@
 import React from "react";
 import "../index.css";
-
+import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
+import { materialLight } from "react-syntax-highlighter/dist/esm/styles/prism";
 const Welcome = () => (
   <div className=" module-content p-10 text-center">
     <h1 className="text-3xl font-bold underline mb-4">
